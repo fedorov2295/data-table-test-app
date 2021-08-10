@@ -1,0 +1,42 @@
+.container{
+    width: 70%;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgb(173, 173, 173);
+    font-size: 0.9em;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    min-width: 400px;
+    box-shadow: 1px 1px 3px rgb(83, 81, 81);
+  }
+  
+  table th,
+  table td {
+    padding: 12px 15px;
+    text-align: center;
+  }
+  thead th {
+    height: 50px;
+    border-bottom: 2px solid black;
+  }
+  
+  thead tr {
+    
+    color: #ffffff;
+    font-weight: bold;
+  }
+
+  table tbody tr:hover{
+      background-color: gray;
+  }
+
+  .pages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

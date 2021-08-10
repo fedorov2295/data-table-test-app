@@ -1,0 +1,6 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(153, 152, 152);
+    }
