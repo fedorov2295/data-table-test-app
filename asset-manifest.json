@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/data-table-test-app/static/css/main.76e3daa5.chunk.css",
+    "main.js": "/data-table-test-app/static/js/main.7d573d10.chunk.js",
+    "main.js.map": "/data-table-test-app/static/js/main.7d573d10.chunk.js.map",
+    "runtime-main.js": "/data-table-test-app/static/js/runtime-main.ccd79a9c.js",
+    "runtime-main.js.map": "/data-table-test-app/static/js/runtime-main.ccd79a9c.js.map",
+    "static/js/2.38b253bc.chunk.js": "/data-table-test-app/static/js/2.38b253bc.chunk.js",
+    "static/js/2.38b253bc.chunk.js.map": "/data-table-test-app/static/js/2.38b253bc.chunk.js.map",
+    "static/js/3.53bb926f.chunk.js": "/data-table-test-app/static/js/3.53bb926f.chunk.js",
+    "static/js/3.53bb926f.chunk.js.map": "/data-table-test-app/static/js/3.53bb926f.chunk.js.map",
+    "index.html": "/data-table-test-app/index.html",
+    "static/css/main.76e3daa5.chunk.css.map": "/data-table-test-app/static/css/main.76e3daa5.chunk.css.map",
+    "static/js/2.38b253bc.chunk.js.LICENSE.txt": "/data-table-test-app/static/js/2.38b253bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd79a9c.js",
+    "static/js/2.38b253bc.chunk.js",
+    "static/css/main.76e3daa5.chunk.css",
+    "static/js/main.7d573d10.chunk.js"
+  ]
+}
